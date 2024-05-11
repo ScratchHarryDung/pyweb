@@ -1,0 +1,1 @@
+- e muốn thêm cả css vô trong này thì làm sao ạ? E thử tạo 1 tệp style ở trg template mà nó ko chạy ạ.
